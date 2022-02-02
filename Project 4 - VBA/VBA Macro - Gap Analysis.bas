@@ -1,3 +1,6 @@
+'This program compares two worksheets for differences and returns results in a third sheet. 
+'To be used for small data sets only (100-300 rows max)
+
 Attribute VB_Name = "Module1"
 Sub compare2Worksheets()
 'THIS MACRO CAN TAKE 3 - 4 MINUTES TO FINISH RUNNING
